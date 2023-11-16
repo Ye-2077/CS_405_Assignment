@@ -1,1 +1,5 @@
-Apologies for the incomplete response. Let's continue from where we left off:
+## Answer2
+
+$$
+p(\mathbf{w},\beta|\mathbf{t}) = \frac{p(\mathbf{t}|\mathbf{X},\mathbf{w},\beta) \cdot p(\mathbf{w},\beta)}{p(\mathbf{t})}
+$$
